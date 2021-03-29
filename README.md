@@ -1,3 +1,7 @@
+# Introduction
+[Bey Wheels](https://en.wikipedia.org/wiki/Bay_Wheels) is a regional public bicycle sharing system in California's San Francisco Bay Area. It is operated by Motivate in a partnership with the Metropolitan Transportation Commission and the Bay Area Air Quality Management District. The system was initially launched as Bay Area Bike Share in August 2013. At launch, it became the first regional bicycle sharing system deployed on the West Coast of the United States and also the first regional system in the U.S. that services more than just a single city or adjacent cities.
+In June 2017, the system was officially relaunched as Ford GoBike in a partnership with [Ford Motor Company](https://en.wikipedia.org/wiki/Ford_Motor_Company).
+
 # fordgobike-system-data
 Ford GoBike system Data Analysis and Exploration
 This was one of the projects I worked at as part of Udacity Data Analyst Nanodegree Course. I have used Python data science and data visualization libraries to explore the dataset’s variables and understand the data’s structure, oddities, patterns and relationships.
